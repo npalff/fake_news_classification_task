@@ -3,14 +3,14 @@ The goal of this task is to practice your coding skills creating a very interest
 
 Some basic steps:
 
-### 0. Clonnig the project
+### 0. Clone the project
 Once you have the enviroment (GIT and Python) proper installed in your machince, you just need to clone the project.
 ```
     git clone https://github.com/vwoloszyn/fake_news_classification_task
 ``` 
 
 
-### 1. Start ipythonNotebook server in your machince, and open task_01.ipynb
+### 1. Start the ipythonNotebook server in your machince, and then open task_01.ipynb
 In this file you will get all the instructions necessary to finish the activity. 
 
 Good luck!
