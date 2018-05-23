@@ -1,4 +1,4 @@
-## fake News Classification Class
+## Fake News Classification Task
 The goal of this task is to practice your coding skills creating a very interesting system: A Fake News Detector. So, here you have a code snippet that will guide you through the developing of the whole system.
 
 Some basic steps:
