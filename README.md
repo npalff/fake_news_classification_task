@@ -1,16 +1,19 @@
-## Fake News Classification Task
-The goal of this task is to practice your coding skills creating a very interesting system: A Fake News Detector. So, here you have a code snippet that will guide you through the developing of the whole system.
+## Fake News Classification
+O objetivo desta tarefa é praticar suas habilidades de codificação criando um sistema muito interessante: um Detector de Notícias Falsas. Então, nessa tarefa você não precisará criar o sistema desde do início. Você terá acesso a uma parte de um código e sua tarefa será finaliza-lo, criando uma classe. Para isso você recebera algumas dicas que estão dentro do notebook (task_01.ipynb).
 
-Some basic steps:
+Algumas etapas básicas:
 
-### 0. Clone the project
-Once you have the enviroment (GIT and Python) proper installed in your machince, you just need to clone the project.
+### 0. Clonar o projeto
+Uma vez que você tenha o ambiente (GIT e Python) corretamente instalado no seu computador, você só precisa clonar o projeto.
 ```
-    git clone https://github.com/vwoloszyn/fake_news_classification_task
-``` 
+     git clone https://github.com/vwoloszyn/fake_news_classification_task
+```
 
 
-### 1. Start the ipythonNotebook server in your machince, and then open task_01.ipynb
-In this file you will get all the instructions necessary to finish the activity. 
+### 1. Inicie o servidor ipythonNotebook no seu computador e, em seguida, abra task_01.ipynb
+Neste arquivo, você receberá todas as instruções necessárias para concluir a atividade.
 
-Good luck!
+### 2. Após finalizar a tarefa
+Após realizar a tarefa, por favor faça o upload no local definido pelo professor.
+
+Boa sorte!
